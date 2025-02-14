@@ -9,7 +9,7 @@ class SbEcomApplicationTests {
 	@Test
 	void contextLoads() {
 		
-		System.out.println("ABC");
+		System.out.println("ABC DONE");
 	}
 
 }
