@@ -120,5 +120,6 @@ public class AddressServiceImpl implements AddressService {
         addressRepository.delete(addressFromDB);
 
         return "Address with the addressId :" +addressId+ " has been deleted successfully";
+
     }
 }
